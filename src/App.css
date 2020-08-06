@@ -1,4 +1,11 @@
 .bck-img{
-  width: 200px;
-  height: 300px;
+  width: 1000px;
+  height: 1000px;
+  background-image: url("/images/matches.png" );
+  justify-content: center;
+  
+}
+
+.h2{
+justify-content: center;
 }

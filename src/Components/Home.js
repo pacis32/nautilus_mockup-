@@ -8,7 +8,14 @@ class Home extends React.Component {
  
      return (
       <div className='bck-img'>
-      <img src="/images/matches.png" alt=""/>
+        <h4>ISUE 079</h4>
+        <br/>
+        <h4>Agents of change</h4>
+        <br/>
+         
+        <h2>Read More</h2>
+        <button>See FULL ISSUE</button>
+        
       </div>
      );
   }
