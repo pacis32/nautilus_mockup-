@@ -1,12 +1,15 @@
 
 import React from 'react';
 
+
+
 class Home extends React.Component {
   render() {
+ 
      return (
-        <div>
-           <h1>Header</h1>
-        </div>
+      <div className='bck-img'>
+      <img src="/images/matches.png" alt=""/>
+      </div>
      );
   }
 }
